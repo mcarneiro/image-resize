@@ -1,0 +1,15 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "resize de imagens automatizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Miranda Carneiro <mcarneiro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.0.6",
+    "gm": "^1.23.0"
+  }
+}
